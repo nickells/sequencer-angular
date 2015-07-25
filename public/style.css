@@ -1,0 +1,24 @@
+body{
+
+}
+
+.noteBox{
+	box-sizing: border-box;
+	font-size: 10px;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.active{
+	background-color: #F00;
+}
+
+.container{
+}
+
+.column{
+	width: 30px;
+	display: inline-block;
+}
